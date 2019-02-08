@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LeccionRecuperacion</string>
+    <string name="numero1">3</string>
+    <string name="numero2">2</string>
+    <string name="signoMas">+</string>
+    <string name="respuesta">Agregar Respuesta</string>
+    <string name="Resutlados">respltados</string>
+    <string name="aciertos">aciertos</string>
+    <string name="aciertosCorrectos">Total ciertos correctos</string>
+    <string name="aciertosIncorrectos">Total ciertos incorrectos</string>
+</resources>
